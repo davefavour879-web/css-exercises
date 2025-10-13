@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.odd-number-element{background-color: lightpink;
+font-family: "Verdana","DejaVu Sans" ,"sans-serif";
+font: size 24px;}
+
+#second-element{
+    color: blue;
+font-size: 36px;}
+
+    .third-element{
+        font-size: 24px;}
+
+
+#forth-number{color: lightgreen;
+font-size: 24px;
+font-weight: bold;}
